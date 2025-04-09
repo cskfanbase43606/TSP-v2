@@ -23,10 +23,10 @@ export function Project() {
                 </a> </div>
             </header>
             <div className="body">
-              <h3>Serverless Voting Application for Programming Languages</h3>
-              <p> Developed a serverless voting app using React, AWS Lambda, API Gateway, and DynamoDB, enabling users to view programming languages, cast votes, and access details through an interactive UI, leveraging serverless architecture for scalability and cost-efficiency. </p>
+              <h3>Food Delivery Application for a Pizza Restaurant</h3>
+              <p> Designed & developed an e-commerce platform for a pizza restaurant, utilizing technologies like React icons, React router DOM, React Alice Carousel, Leaflet Maps, React Paginate,UUID, React Lazy Load, Framer Motion & Turso. </p>
             </div>
-            <footer> <ul className="tech-list"> <li>AWS Lambda</li> <li>API Gateway</li> <li>DynamoDB</li> </ul> </footer>
+            <footer> <ul className="tech-list"> <li>Reactjs</li> <li>Leaflet Maps</li> <li>Turso</li> </ul> </footer>
           </div>
         </ScrollAnimation>
 
