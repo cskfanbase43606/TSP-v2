@@ -10,7 +10,7 @@ export function Footer() {
   return (
     <Container className="footer">
       <a href="https://ranaportfolio-iota.vercel.app/" className="logo">
-        <span>Made by: </span>
+        <span>All rights reserved. </span>
         <span>Rahul Rana</span>
       </a>
       <div>
