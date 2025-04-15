@@ -37,12 +37,12 @@ export function Project() {
               <div className="project-links">
                 <a href="https://rana-ecom-react.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://ai-chatbot-t8fn.onrender.com" target="_blank" rel="noreferrer">
+                <a href="https://rana-ecom-react.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>GeniusBot: AI-Powered Assistance with PDF Insight</h3>
+              <h3>Rana Cart : Shopping E-Commerce platform having wide range of products & services.</h3>
               <p>
                 Developed an interactive chatbot application using Streamlit, OpenAI's GPT-3.5-turbo language model, and PyPDF2 for PDF text extraction, enabling users to ask context-based questions on uploaded PDFs and general queries.
               </p>
